@@ -1,0 +1,4 @@
+/dist
+setup.py
+pyproject.toml
+src/EasyGenerators.egg-info
