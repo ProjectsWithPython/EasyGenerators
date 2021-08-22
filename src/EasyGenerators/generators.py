@@ -18,7 +18,7 @@ def even_generator(min: int, max: int):
 
 
 
-def custom_geneator(min : int, max :int, divisable_by : int):
+def custom_generator(min : int, max :int, divisable_by : int):
     try:
         for i in range(min, max):
             if i % divisable_by == 0:
